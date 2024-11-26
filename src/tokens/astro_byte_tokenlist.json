@@ -1,0 +1,23 @@
+{
+  "name": "Astro Byte Token List",
+  "logoURI": "https://i.imgur.com/wOcvSra.png",
+  "tags": {
+    "meme": "Meme coin with community focus",
+    "community": "Token created for community engagement"
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "6GjqjLE2fA6yPEmHC6XTLE4PYHdKvULo6JCKn95Tq6SV",
+      "symbol": "ASTRO",
+      "name": "Astro Byte",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/wOcvSra.png",
+      "tags": ["meme", "community"],
+      "extensions": {
+        "twitter": "https://x.com/byte_astro"
+      }
+    }
+  ]
+}
+
